@@ -63,5 +63,5 @@ ENTRYPOINT ["/start.sh"]
 
 VOLUME /datasets
 
-EXPOSE 80
+EXPOSE 3005
 
